@@ -1,6 +1,14 @@
 # -Numbers-Speak-The-Data-Story-of-PSL-2024-
 A data-driven analysis of PSL 2024, revealing team performance, player stats, and match insights through visual storytelling.
 
+📌 Note: This project was originally created so feing long time on Kaggle.
+🔗 View original notebook here: Kaggle Notebook
+
+
+https://www.kaggle.com/code/mustafashoukat/numbers-speak-the-data-story-of-psl-2024
+
+
+
 <img width="805" height="386" alt="image" src="https://github.com/user-attachments/assets/b9bd372a-7114-49ae-86b6-87dfd9e48041" />
 
 
